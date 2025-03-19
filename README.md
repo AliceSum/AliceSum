@@ -15,7 +15,7 @@ Second Project, It is a natural disaster damage level classification on house. I
 
 
 [Image classifier project with Reactjs in the bowser without backend](https://github.com/AliceSum/JavaScriptClassifier)<br>
-<img src="https://raw.githubusercontent.com/AliceSum/AliceSum/master/hsl_p1.gif"><br>
+<img src="https://raw.githubusercontent.com/AliceSum/AliceSum/main/hsl_p1.gif"><br>
 
 
 
@@ -47,7 +47,7 @@ Thus, you can see it is not perfect that it often only colors the hair and face 
   width: 33.33%;
   padding: 5px;
   ">
-<!--     <img src="https://github.com/AliceSum/AliceSum/blob/master/two_edit.png?raw=trueraw=true" width="50%" > -->
+<!--     <img src="https://github.com/AliceSum/AliceSum/blob/main/two_edit.png?raw=trueraw=true" width="50%" > -->
   </div>
   <div style="  float: left;
   width: 33.33%;
